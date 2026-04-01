@@ -21,8 +21,8 @@
 
 | Field | Details |
 |------|--------|
-| 👤 Name of member1 | Om Machhi |
-| 👤 Name of member2 | Yashsvi Sanash |
+| 👤 Name of member1 | Om Machhi (12502080603013) |
+| 👤 Name of member2 | Yashsvi Sanash (12502080603021) |
 | 🎓 Course | Java Programming |
 | 📅 Academic Year | 2025-26 |
 
