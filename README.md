@@ -21,7 +21,8 @@
 
 | Field | Details |
 |------|--------|
-| 👤 Name | Om Mac |
+| 👤 Name of member1 | Om Machhi |
+| 👤 Name of member2 | Yashsvi Sanash |
 | 🎓 Course | Java Programming |
 | 📅 Academic Year | 2025-26 |
 
